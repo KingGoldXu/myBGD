@@ -1,0 +1,8 @@
+*.pyc
+log/
+*.txt
+*.ckpt*
+*ject
+*.dict
+*.mm*
+checkpoint
